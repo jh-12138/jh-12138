@@ -1,6 +1,4 @@
-**This text is bold.** <h3 align="center">  Welcome to my happy planet 👋
-  
- </h3>
+###  <h3 align="center">  Welcome to my happy planet 👋 </h3>
 
 
 Interested in Artificial Intelligence and its Application in Biomedical Domain | Machine Learning | Deep Learning | Reinforced Learning | Neural Network | Bayesian Statistics | Simulation | Mathematics | Econometrics | Time Series | Mathematical Economics
