@@ -16,4 +16,4 @@ Python | R | SAS | Stata | Xpress | Simul8 | Latex
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am super!
--->
+
