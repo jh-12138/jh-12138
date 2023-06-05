@@ -1,9 +1,5 @@
 ### Welcome to my happy planet 👋
 
-<!--
-**jh-12138/jh-12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Interested in Artificial Intelligence and its Application in Biomedical Domain | Machine Learning | Deep Learning | Reinforced Learning | Neural Network | Bayesian Statistics | Simulation | Mathematics | Econometrics | Time Series | Mathematical Economics
 
 Python | R | SAS | Stata | Xpress | Simul8 | Latex
