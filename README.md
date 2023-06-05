@@ -1,4 +1,8 @@
-<h3 align="center">   <b>Welcome to my happy planet 👋 </b>  </h3>
+
+
+<h1 align="center">
+  <b>Welcome to my happy planet 👋</b>
+</h1>
 
 
 Interested in Artificial Intelligence and its Application in Biomedical Domain | Machine Learning | Deep Learning | Reinforced Learning | Neural Network | Bayesian Statistics | Simulation | Mathematics | Econometrics | Time Series | Mathematical Economics
