@@ -20,9 +20,8 @@ Python | R | SAS | Stata | Xpress | Simul8 | Latex
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am super!
 
-<i class="programming lang-ruby"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlyn"></i>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
