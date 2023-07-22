@@ -20,4 +20,4 @@ Python | R | SAS | Stata | Xpress | Simul8 | Latex
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am super!
 
-[![My Skills](https://skillicons.dev/icons?i=github,instagram,latex，linkedin,py,r,twitter,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,instagram,latex,linkedin,py,r,twitter,figma&theme=light)](https://skillicons.dev)
