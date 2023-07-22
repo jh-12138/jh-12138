@@ -29,10 +29,6 @@ Python | R | SAS | Stata | Xpress | Simul8 | Latex
   <a href="mailto:jojohe0827@gmail.com">
     <img src="https://img.shields.io/badge/Email-jojohe0827%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-  <a href="https://github.com/jh_12138">
-    <img src="https://img.shields.io/badge/GitHub-jh__12138-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   
   <a href="https://www.linkedin.com/in/zhezhou-he-685260174/">
     <img src="https://img.shields.io/badge/LinkedIn-zhezhou--he--685260174-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
