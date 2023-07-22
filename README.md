@@ -18,7 +18,7 @@ Python | R | SAS | Stata | Xpress | Simul8 | Latex
 - 💬 Ask me about biostats related stuff 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am super!
-- 🌞 Interets: Photography 📷 | Traveling 🌏 | Tennis 🎾 | Reading 📖 | Coding 👨🏼‍💻 | Mathematics 𝐲=𝛃𝒙 | Relaxing 🎧
+- 🌞 Interets: Photography 📷 | Traveling 🌏 | Tennis 🎾 | Reading 📖 | Coding 👨🏼‍💻 | Mathematics 𝐲=𝛃𝒙 | Music 🎧
 
 
 <h1 align="center">
