@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <b>Welcome to my happy planet 😎🤩</b>
+  <b>Welcome to JH Kingdom 😎🤩</b>
 </h1>
 
 Interested in Artificial Intelligence and its Application in Biomedical Domain | Machine Learning | Deep Learning | Reinforced Learning | Neural Network | Bayesian Statistics | Simulation |  Mathematics | Operational Research | Econometrics | Time Series | Mathematical Economics
